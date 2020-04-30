@@ -1,0 +1,42 @@
+clc
+clear all
+fs=100;
+n=0:0.01:1;
+f1=sin(10*pi*n);
+subplot(3,2,1)
+plot(n,f1)
+f2=sin(20*pi*n);
+subplot(3,2,2)
+plot(n,f2)
+d1=length(f1);
+t=-fs/2:1:fs/2;
+ff1=abs(fft(f1,d1));
+ff1=fftshift(ff1);
+ff2=abs(fft(f2,d1));
+ff2=fftshift(ff2);
+subplot(3,2,3)
+stem(t,ff1)
+subplot(3,2,4)
+stem(t,ff2)
+m1=max(ff1);
+m2=max(ff2);
+for i=1:(length(ff1)/2)
+if(ff1(i)==m1)
+        value1=i;
+end
+end
+for i=1:(length(ff2)/2)
+if(ff2(i)==m2)
+        value2=i;
+end
+end
+qwer=(length(ff1)/2)-value1;
+qwer2=(length(ff2)/2)-value2;
+fs=qwer+qwer2;
+fs1=qwer-qwer2;
+y=sin(2*pi*fs*n);
+subplot(3,2,5)
+plot(n,y)
+y1=sin(2*pi*fs1*n);
+subplot(3,2,6)
+plot(n,y1)
