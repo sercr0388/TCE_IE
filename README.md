@@ -1,6 +1,10 @@
 # EL-5522 Taller de Comunicaciones Eléctricas
 Repositorio con el contenido del curso impartido de manera no presencial, utilizando apoyo tecnologico para la conformación de los materiales del curso.
 
+[Programa del curso](https://github.com/sercr0388/TCE_IE/blob/master/Programa%20del%20curso/EL_5522_Programa_del_cursoTaller_de_Comunicaciones_Virtual.pdf)
+
+[Manual de prácticas](https://github.com/sercr0388/TCE_IE/blob/master/Manual%20de%20practicas/Manual_de_Laboratorio_Taller_de_Comunicaciones_Electricas.pdf)
+
 # Profesor
 _Ing. Sergio Arriola-Valverde. M.Sc_
 
