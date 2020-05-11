@@ -12,4 +12,12 @@ _Edificion K1-509_
 
 _Correo: sarriola@tec.ac.cr_
 
+Url: www.ie.tec.ac.cr/sarriola/TallerdeComunicaciones
+
 _Teléfono: -(506) 2550-2725_
+
+# Contenido
+
+El curso está estructurado con al menos 6 prácticas guiada, donde en cada carpeta de este repositorio el(la) estudiantes encontrará el material por cada práctica del curso.
+
+
