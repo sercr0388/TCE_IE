@@ -1,5 +1,5 @@
 # EL-5522 Taller de Comunicaciones Eléctricas
-Repositorio con el contenido del curso
+Repositorio con el contenido del curso impartido de manera no presencial, utilizando apoyo tecnologico para la conformación de los materiales del curso.
 
 # Profesor
 _Ing. Sergio Arriola-Valverde. M.Sc_
