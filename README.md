@@ -18,7 +18,7 @@ _Correo: sarriola@tec.ac.cr_
 
 Url: www.ie.tec.ac.cr/sarriola/TallerdeComunicaciones
 
-_Teléfono: -(506) 2550-2725_
+_Teléfono: +(506) 2550-2725_
 
 # Contenido
 
