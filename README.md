@@ -22,7 +22,7 @@ _Teléfono: +(506) 2550-2725_
 
 # Contenido
 
-El curso está estructurado con al menos 6 prácticas guiada, donde en cada carpeta de este repositorio el(la) estudiantes encontrará el material por cada práctica del curso.
+El curso está estructurado con al menos 6 prácticas guiadas, donde en cada carpeta de este repositorio el(la) estudiantes encontrará el material por cada práctica del curso.
 
 [Laboratorio 1](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%201/)
 
