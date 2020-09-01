@@ -16,13 +16,13 @@ _Edificion K1-509_
 
 _Correo: sarriola@tec.ac.cr_
 
-Url: www.ie.tec.ac.cr/sarriola/TallerdeComunicaciones
+URL: www.ie.tec.ac.cr/sarriola/TallerdeComunicaciones
 
-_Teléfono: -(506) 2550-2725_
+_Teléfono: +(506) 2550-2725_
 
 # Contenido
 
-El curso está estructurado con al menos 6 prácticas guiada, donde en cada carpeta de este repositorio el(la) estudiantes encontrará el material por cada práctica del curso.
+El curso está estructurado con al menos 6 prácticas guiadas, donde en cada carpeta de este repositorio el(la) estudiantes encontrará el material por cada práctica del curso.
 
 [Laboratorio 1](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%201/)
 
@@ -33,6 +33,8 @@ El curso está estructurado con al menos 6 prácticas guiada, donde en cada carp
 [Laboratorio 4](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%204/)
 
 [Laboratorio 5](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%205/)
+
+[Laboratorio 6](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%206/)
 
 
 
