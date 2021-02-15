@@ -3,7 +3,7 @@ Repositorio con el contenido del curso impartido de manera no presencial, utiliz
 
 [Programa del curso](https://github.com/sercr0388/TCE_IE/blob/master/Programa%20del%20curso/EL_5522_Programa_del_cursoTaller_de_Comunicaciones_Virtual.pdf)
 
-[Manual de prácticas](https://github.com/sercr0388/TCE_IE/blob/master/Manual%20de%20practicas/Manual_de_Laboratorio_Taller_de_Comunicaciones_Electricas.pdf)
+[Manual de prácticas](https://github.com/sercr0388/TCE_IE/blob/master/Manual%20de%20practicas/Manual_de_Laboratorio_Taller_de_Comunicaciones_Electricas_SAV.pdf)
 
 # Profesor
 _Ing. Sergio Arriola-Valverde. M.Sc_
