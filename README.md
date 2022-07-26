@@ -5,7 +5,7 @@ Repositorio con el contenido del curso impartido de manera presencia:
 
 [Cronograma de Actividades](https://github.com/sercr0388/TCE_IE/blob/IISTCE2022/Cronograma%20de%20Trabajo/Cronograma_de_Actvidades.pdf)
 
-[Manual de prácticas](https://github.com/sercr0388/TCE_IE/blob/master/Manual%20de%20practicas/Manual_de_Laboratorio_Taller_de_Comunicaciones_Electricas_SAV.pdf)
+[Manual de prácticas](https://github.com/sercr0388/TCE_IE/blob/IISTCE2022/Manual%20de%20Laboratorios/Manual_de_Laboratorio_Taller_de_Comunicaciones_Electricas_SAV.pdf)
 
 # Profesor
 _Ing. Sergio Arriola-Valverde. M.Sc_
@@ -26,17 +26,8 @@ _Teléfono: +(506) 2550-2725_
 
 El curso está estructurado con al menos 6 prácticas guiadas, donde en cada carpeta de este repositorio el(la) estudiantes encontrará el material por cada práctica del curso.
 
-[Laboratorio 1](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%201/)
+[Laboratorio 1](https://github.com/sercr0388/TCE_IE/tree/IISTCE2022/Laboratorio%201)
 
-[Laboratorio 2](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%202/)
-
-[Laboratorio 3](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%203/)
-
-[Laboratorio 4](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%204/)
-
-[Laboratorio 5](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%205/)
-
-[Laboratorio 6](https://github.com/sercr0388/TCE_IE/tree/master/Laboratorio%206/)
 
 
 
