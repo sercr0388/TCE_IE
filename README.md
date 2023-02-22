@@ -28,7 +28,8 @@ El curso está estructurado con al menos 6 prácticas guiadas, donde en cada car
 
 [Laboratorio 1](https://github.com/sercr0388/TCE_IE/tree/ISTCE2023/Laboratorio%201)
 
-[Laboratorio 2](https://github.com/sercr0388/TCE_IE/tree/ISTCE2023/Laboratorio%201)
+[Laboratorio 2](https://github.com/sercr0388/TCE_IE/tree/ISTCE2023/Laboratorio%202
+)
 
 
 
